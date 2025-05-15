@@ -1,0 +1,5 @@
+flask
+exa_py
+anthropic
+python-dotenv
+
